@@ -3,4 +3,4 @@ WORKDIR /
 ADD node_modules.tar.gz todobackend
 COPY . .
 EXPOSE 3001
-ENTRYPOINT ['npm', 'start']
+ENTRYPOINT ["npm", "start"]
