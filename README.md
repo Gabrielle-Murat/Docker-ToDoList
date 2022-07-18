@@ -30,8 +30,10 @@
 <h2 id="sobre"> :pencil: Sobre o projeto </h2>
 
 <p align="justify"> 
-  Projeto desenvolvido durante a formação de BackEnd na Trybe
+  Projeto desenvolvido durante a formação de BackEnd na Trybe com o intuito de consolidar o aprendizado de Docker.
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="tecnologias"> :computer: Tecnologias utilizadas</h2>
 
@@ -39,28 +41,30 @@
 <p>Visual Studio Code</p>
 <p>GitHub</p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="descrição-do-projeto">Descrição</h2>
 
-<details>
-<p>Neste projeto eu realizei:</p>
+<summary>
+Neste projeto eu realizei:
 
 <ol>
   <li>1. Conteinerização das aplicações;</li>
   <li>2. Criação de uma conexão entre elas;</li>
   <li>3. Orquestramento do seu funcionamento.</li>
-</ol>
+</ol><br /><br />
 
+Tem-se uma aplicação full-stack neste repositório: um **app de tarefas**!<br />
+Esta aplicação foi conteinerizada para funcionar.<br />
+Foram desenvolvidos os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e, `teste` que valida se as aplicações estão se comunicando.<br /><br />
 
-Tem-se uma aplicação full-stack neste repositório: um **app de tarefas**!
-Esta aplicação foi conteinerizada para funcionar. Foram desenvolvidos os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e, `teste` que valida se as aplicações estão se comunicando.
-
-Foram criadas as imagens para as aplicações e, as mesmas foram configuradas com o `docker-compose`.
+Foram criadas as imagens para as aplicações e, as mesmas foram configuradas com o `docker-compose`.<br /><br />
 
 Para isto, utilizei uma série de comandos do `docker` com diferentes níveis de complexidade.
 Cada comando foi escrito em seu próprio arquivo.
-</details>
+</summary>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="instruções">Instruções</h2>
 
@@ -68,10 +72,10 @@ Cada comando foi escrito em seu próprio arquivo.
 * `git clone git@github.com:Gabrielle-Murat/Docker-ToDoList.git`
 * Entre na pasta do repositório que você acabou de clonar;
 
-
 2. Instale as dependências:
   * `npm install`
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2>Requisitos:</h2>
 
