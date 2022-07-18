@@ -1,4 +1,6 @@
-<summary><strong>Projeto Docker - To Do List</strong></summary>
+<h1 align="center">Projeto Docker - To Do List</h1>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Tabela de Conteúdos</h2>
@@ -23,7 +25,7 @@
   </ol>
 </details>
 
-![-----------------------------------------------------]
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="sobre"> :pencil: Sobre o projeto </h2>
 
@@ -41,11 +43,14 @@
 <h2 id="descrição-do-projeto">Descrição</h2>
 
 <details>
-Neste projeto eu realizei:
+<p>Neste projeto eu realizei:</p>
 
-1. **_Conteinerização_** das aplicações;
-2. Criação de uma conexão entre elas;
-3. Orquestramento do seu funcionamento.
+<ol>
+  <li>1. Conteinerização das aplicações;</li>
+  <li>2. Criação de uma conexão entre elas;</li>
+  <li>3. Orquestramento do seu funcionamento.</li>
+</ol>
+
 
 Tem-se uma aplicação full-stack neste repositório: um **app de tarefas**!
 Esta aplicação foi conteinerizada para funcionar. Foram desenvolvidos os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e, `teste` que valida se as aplicações estão se comunicando.
@@ -56,8 +61,8 @@ Para isto, utilizei uma série de comandos do `docker` com diferentes níveis de
 Cada comando foi escrito em seu próprio arquivo.
 </details>
 
-<details>
-  <h2 id="instruções">Instruções</h2>
+
+<h2 id="instruções">Instruções</h2>
 
 1. Clone o repositório
 * `git clone git@github.com:Gabrielle-Murat/Docker-ToDoList.git`
@@ -67,9 +72,8 @@ Cada comando foi escrito em seu próprio arquivo.
 2. Instale as dependências:
   * `npm install`
 
-</details>
 
-# Requisitos:
+<h2>Requisitos:</h2>
 
 ## Comandos Docker:
 <details>
