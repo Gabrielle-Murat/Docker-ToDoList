@@ -1,5 +1,9 @@
 <h1 align="center">Projeto Docker - To Do List</h1>
 
+<p align="center"> 
+  <img src="gif/docker.png" alt="Docker Logo" width="80px" height="80px">
+</p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- TABLE OF CONTENTS -->
