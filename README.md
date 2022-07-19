@@ -163,4 +163,5 @@
 
 <h2 id="créditos"> 💳 Créditos</h2>
 
-Aplicativo ToDoList (todo-app) fornecido pela Trybe.
+<p align="center">Aplicativo ToDoList (todo-app) fornecido pela Trybe.</p>
+<p align="center"><a href="https://www.betrybe.com/" target="_blank"><img src="gif/trybe-logo.jpeg" alt="Docker Logo" width="15%"></a></p>
