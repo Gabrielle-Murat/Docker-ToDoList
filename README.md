@@ -82,9 +82,9 @@
 <h2 id="instruções"> :scroll: Instruções</h2>
 
 1. Clone o repositório
-* `git clone git@github.com:Gabrielle-Murat/Docker-ToDoList.git`
-* Entre na pasta do repositório que você acabou de clonar;
-
+  * `git clone git@github.com:Gabrielle-Murat/Docker-ToDoList.git`
+  * Entre na pasta do repositório que você acabou de clonar;
+<br />
 
 2. Instale as dependências:
   * `npm install`
