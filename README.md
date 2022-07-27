@@ -4,7 +4,9 @@
   <img src="gif/docker.png" alt="Docker Logo" width="40%">
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Tabela de Conteúdos</h2>
@@ -33,7 +35,9 @@
   </ol>
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="sobre"> :pencil: Sobre o projeto </h2>
 
@@ -42,7 +46,9 @@
     <img align="center" src="gif/docker-dinamica.jpg" alt="Docker functioning" width="25%">
   </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="tecnologias"> :computer: Tecnologias utilizadas</h2>
 
@@ -52,7 +58,9 @@
 <a href="https://github.com/" target="_blank"><img src="gif/github-logo.jpg" alt="gitHub Logo" width="15%"></a>
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="descrição-do-projeto"> :page_facing_up: Descrição</h2>
 
@@ -77,7 +85,9 @@
   Cada comando foi escrito em seu próprio arquivo.
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="instruções"> :scroll: Instruções</h2>
 
@@ -89,7 +99,9 @@
 2. Instale as dependências:
   * `npm install`
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="requisitos"> :woman_technologist: Requisitos Realizados:</h2>
 
@@ -159,9 +171,11 @@
 </details>
 <br />
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="créditos"> 💳 Créditos</h2>
 
 <p align="center">Aplicativo ToDoList (todo-app) fornecido pela Trybe.</p>
-<p align="center"><a href="https://www.betrybe.com/" target="_blank"><img src="gif/trybe-logo.jpeg" alt="Docker Logo" width="15%"></a></p>
+<p align="center"><a href="https://www.betrybe.com/" target="_blank"><img src="gif/trybe-logo.jpeg" alt="Trybe Logo" width="15%"></a></p>
